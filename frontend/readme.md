@@ -8,6 +8,10 @@ To start the app use: `yarn start` from the frontend directory.
 
 Make sure your server is up and running to serve requests.
 
+## Troubleshooting
+
+If you run into any issues with missing packages, simply run `yarn add <the missing package>` and it should generally work.
+
 ## Pages overview
 
 - Home page (URL: /#/ )
