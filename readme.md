@@ -10,6 +10,4 @@ You might have a missing `react-scripts` package. In that case, run `yarn add re
 
 ## Development
 
-blah
-
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@janesmithwilco` as reviewer.
