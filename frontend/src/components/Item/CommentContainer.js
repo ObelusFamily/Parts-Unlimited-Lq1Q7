@@ -3,7 +3,6 @@ import CommentList from "./CommentList";
 import { Link } from "react-router-dom";
 import React from "react";
 
-// great component overall
 const CommentContainer = props => {
   if (props.currentUser) {
     return (
