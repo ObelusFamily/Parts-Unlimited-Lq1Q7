@@ -50,6 +50,7 @@ const Auth = {
   save: user => requests.put("/user", { user })
 };
 
+// some tags
 const Tags = {
   getAll: () => requests.get("/tags")
 };
